@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5374B7</color>
+    <color name="colorPrimaryDark">#37474F</color>
+    <color name="colorAccent">#ECEFF1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_grey">#424242</color>
+
+
+
+    <color name="transparent">#00000000</color>
+    <color name="date_color">#999999</color>
+    <color name="black">#000000</color>
+    <color name="gray">#999999</color>
+    <color name="blue">#0066cc</color>
+    <color name="gold">#e6b121</color>
+    <color name="blueback">#99FFFF</color>
+    <color name="articlecolor">#3399FF</color>
+    <color name="article_title">#3399FF</color>
+    <color name="darkgreen">#8ad0e8</color>
+    <color name="google_red">#3399FF</color>
+</resources>
